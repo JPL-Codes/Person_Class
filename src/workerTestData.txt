@@ -1,0 +1,12 @@
+Timmy,Labor,000012,Jr,1999
+
+Jon,Thunder,000013,na,1998
+
+Frank,Gane,000015,Dr.,1987
+
+Rudolph,Red,000018,na,1953
+
+Tyler,Smith,000019,Sr,1961
+
+Hank,Prod,000021,Sr,1964
+

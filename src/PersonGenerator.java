@@ -34,6 +34,7 @@ public class PersonGenerator {
                 //personOData.add(new Person(ID, FName, LName, Title, Yob));
                 String CSVPersonRecord = (ID + "," + firstName + "," + lastName + "," + title + "," + yob);
                 personCSVData.add(CSVPersonRecord);
+
                 again = SafeInput.getYNConfirm(in, "Are you done entering prompts?");
 
 
